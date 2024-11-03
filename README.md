@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michel93000
-- 👀 I’m interested in .Net and Xamarin ...
-- 🌱 I’m currently learning .C#..
-- 💞️ I’m looking to collaborate on .web projet rtc or link with database ms sql..
+- 👀 I’m interested in web programming ...
+- 🌱 I’m currently learning .C#, Java, ..
+- 💞️ I’m looking to collaborate on .web projet  link with database sql..
 - 📫 How to reach me Here...
 
 <!---
